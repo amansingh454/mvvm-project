@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="back_button">Back Button</string>
+    <string name="data_from_first_fragment">Data from First Fragment</string>
+
+</resources>
+
